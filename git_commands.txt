@@ -9,3 +9,10 @@ command for adding username and email
 >git config --global user.name "yourname"
 
 >git config --global user.email "your email"
+
+command for adding all untracked files to staging Area
+>git add -A
+
+command for adding staged files to local repository
+
+>git commit -m "commit message"
