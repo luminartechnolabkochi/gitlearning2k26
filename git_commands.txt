@@ -4,3 +4,8 @@ command for list configuration details
 
 >git config --list
 
+command for adding username and email
+
+>git config --global user.name "yourname"
+
+>git config --global user.email "your email"
