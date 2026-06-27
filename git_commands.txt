@@ -1,0 +1,6 @@
+git is a vcs 
+
+command for list configuration details
+
+>git config --list
+
