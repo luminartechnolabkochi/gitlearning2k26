@@ -20,3 +20,7 @@ command for adding staged files to local repository
 command for adding remote
 
 >git remote add name path
+
+command for listing branches
+
+>git branch
