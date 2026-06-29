@@ -16,3 +16,7 @@ command for adding all untracked files to staging Area
 command for adding staged files to local repository
 
 >git commit -m "commit message"
+
+command for adding remote
+
+>git remote add name path
